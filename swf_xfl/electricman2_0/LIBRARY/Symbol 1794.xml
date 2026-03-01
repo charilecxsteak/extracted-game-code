@@ -1,0 +1,787 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1794" itemID="69a20280-000001c3" lastModified="1772157771">
+     <timeline>
+          <DOMTimeline name="Symbol 1794">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#f55854">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>if(_parent.nmetype == 1)
+{
+   stop();
+}
+if(_parent.nmetype == 2)
+{
+   if(_parent._name == "m1")
+   {
+      gotoAndPlay(12);
+   }
+   else
+   {
+      gotoAndPlay(2);
+   }
+}
+if(_parent.nmetype == 3)
+{
+   gotoAndPlay(3);
+}
+if(_parent.nmetype == 4)
+{
+   gotoAndPlay(4 + _parent.nmemod);
+}
+if(_parent.nmetype == 5)
+{
+   gotoAndPlay(7);
+}
+if(_parent.nmetype == 6)
+{
+   gotoAndPlay(8);
+}
+if(_parent.nmetype == 7)
+{
+   gotoAndPlay(9);
+}
+if(_parent.nmetype == 8)
+{
+   gotoAndPlay(10);
+}
+if(_parent.nmetype == 9)
+{
+   if(_parent._name == "m1")
+   {
+      gotoAndPlay(13);
+   }
+   else
+   {
+      gotoAndPlay(11);
+   }
+}
+if(_parent.nmetype == 10)
+{
+   if(_parent._name == "m1")
+   {
+      gotoAndPlay(15);
+   }
+   else
+   {
+      gotoAndPlay(14);
+   }
+}
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#e469ac">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1638" centerPoint3DX="9.35" centerPoint3DY="8.45">
+                                             <matrix>
+                                                  <Matrix tx="-0.1" ty="-0.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(19);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="14" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#fbe322" layerType="mask" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#ff0000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 11 -88| 0 -85[ -56 -90 -32 -137| -15 -163[ 60 -252 170 -277[ 264 -294 302 -218[ 306 -210 300 -203| 291 -193[ 341 -141 344 -62[ 347 31 331 119[ 321 171 278 200[ 288 241 237 242[ 223 242 213 230| 113 104| 112 101| 61 68[ 39 55 28 31| -2 -51| -8 -79| 6 -83| 39 -99| 21 -98| 11 -88"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#5ef189" parentLayerIndex="2" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1577" centerPoint3DX="44.4" centerPoint3DY="45.55">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.4" a="0.32049560546875" d="0.32049560546875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "false")
+   {
+      _rotation = _rotation + _root.gamespeed * _parent._parent.health * 0.35;
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#9be684">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1644" centerPoint3DX="10.25" centerPoint3DY="8.45">
+                                             <matrix>
+                                                  <Matrix tx="0.6" ty="-0.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(9);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1644" centerPoint3DX="10.25" centerPoint3DY="8.45">
+                                             <matrix>
+                                                  <Matrix tx="0.6" ty="-0.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(9);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#3eddcb" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#4120a2"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#582cdc"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="3">
+                                                       <SolidColor color="#221155"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="4">
+                                                       <SolidColor color="#5028ca"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="5">
+                                                       <SolidColor color="#0e0723"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 126 -193| 128 -193| 129 -193| 131 -195| 201 -194| 204 -190| 204 -187| 199 -185| 139 -187| 144 -183| 145 -180| 146 -176| 160 -159| 159 -156| 156 -152| 135 -156| 128 -170| 125 -173| 126 -187| 126 -188| 125 -188| 126 -191| 126 -193"/>
+                                                  <Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 159 -131| 295 -194| 86 -198| 101 -184| 66 -167| 97 -117| 104 -121| 139 -149| 159 -131"/>
+                                                  <Edge fillStyle0="0" fillStyle1="5" strokeStyle="0" edges="! 169 -13| 213 -8| 221 -34| 368 -52| 193 60| 198 41| 160 45| 161 -13| 169 -13"/>
+                                                  <Edge fillStyle0="3" fillStyle1="0" strokeStyle="0" edges="! 117 -92| 154 -56| 203 -68| 217 -50| 364 -119| 184 -124| 192 -106| 120 -96| 117 -92"/>
+                                                  <Edge fillStyle0="3" fillStyle1="4" strokeStyle="0" edges="! 278 -110| 275 -106| 233 -109| 233 -106| 234 -99| 230 -96| 224 -96| 222 -99| 217 -103| 215 -111| 211 -112| 208 -114| 209 -117| 211 -120| 214 -121| 216 -121| 217 -121| 273 -115| 277 -113| 278 -110"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1649" centerPoint3DX="15.0" centerPoint3DY="8.4">
+                                             <matrix>
+                                                  <Matrix tx="3.3" ty="-0.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(40);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1652" centerPoint3DX="16.35" centerPoint3DY="6.85">
+                                             <matrix>
+                                                  <Matrix tx="3.5" ty="-6.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(2);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1655" centerPoint3DX="17.25" centerPoint3DY="5.7">
+                                             <matrix>
+                                                  <Matrix tx="3.4" ty="-6.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(2);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1658" centerPoint3DX="14.4" centerPoint3DY="7.25">
+                                             <matrix>
+                                                  <Matrix tx="3.1" ty="-6.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(2);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1666" centerPoint3DX="152.85" centerPoint3DY="86.7">
+                                             <matrix>
+                                                  <Matrix tx="2.0" ty="-0.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if((_parent._parent._currentframe &gt; 2 &amp;&amp; _parent._parent._currentframe &lt; 15 || _parent._parent._currentframe &gt; 403 &amp;&amp; _parent._parent._currentframe &lt; 460) &amp;&amp; _parent._parent.health &lt; 50)
+   {
+      _parent._parent.health += _root.gamespeed / 7;
+      _parent._parent.fallnum += _root.gamespeed / 7;
+      if(_parent._parent.health &gt; 50)
+      {
+         _parent._parent.health = 50;
+         _parent._parent.fallnum = 50;
+      }
+      if(_currentframe != 2)
+      {
+         gotoAndPlay(2);
+      }
+   }
+   else if(_parent._parent.dead != "true")
+   {
+      gotoAndPlay(1);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(3);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      gotoAndPlay(3);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1669" centerPoint3DX="13.85" centerPoint3DY="12.95">
+                                             <matrix>
+                                                  <Matrix tx="1.0" ty="1.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(2);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1672" centerPoint3DX="16.65" centerPoint3DY="8.55">
+                                             <matrix>
+                                                  <Matrix tx="4.05" ty="-4.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(2);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1765" name="head" centerPoint3DX="15.55" centerPoint3DY="11.3">
+                                             <matrix>
+                                                  <Matrix tx="1.5" ty="-0.4" a="0.98297119140625" d="0.98297119140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(19);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1768" centerPoint3DX="18.25" centerPoint3DY="8.3">
+                                             <matrix>
+                                                  <Matrix tx="4.95" ty="-0.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(2);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#4b25bd"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#0f0727"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="3">
+                                                       <SolidColor color="#6331f8"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="4">
+                                                       <SolidColor color="#4120a4"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="5">
+                                                       <SolidColor color="#2a1569"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="6">
+                                                       <SolidColor color="#351a84"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="7">
+                                                       <SolidColor color="#0a051a"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="1" fillStyle1="3" strokeStyle="0" edges="! 197 -100| 203 -90| 202 -88| 201 -87| 202 -87| 200 -85| 199 -83| 194 -81| 172 -82| 170 -81| 168 -82| 164 -82| 151 -80| 146 -81| 135 -74| 132 -73| 127 -79| 130 -88| 132 -91| 130 -92[ 112 -94 107 -107| 134 -108| 150 -108| 167 -105| 181 -102| 197 -100"/>
+                                                  <Edge fillStyle0="1" fillStyle1="7" strokeStyle="0" edges="! 198 -37[ 191 -35 186 -29| 187 -29| 189 -29| 191 -32| 198 -37"/>
+                                                  <Edge fillStyle0="4" fillStyle1="6" strokeStyle="0" edges="! 184 -29| 184 -31| 198 -42| 204 -45| 206 -45"/>
+                                                  <Edge fillStyle0="4" fillStyle1="7" strokeStyle="0" edges="! 206 -45| 217 -48| 221 -49"/>
+                                                  <Edge fillStyle0="4" fillStyle1="5" strokeStyle="0" edges="! 221 -49| 228 -49"/>
+                                                  <Edge fillStyle0="4" fillStyle1="2" strokeStyle="0" edges="! 228 -49| 236 -51| 238 -52| 239 -53| 248 -52| 249 -52| 261 -56| 267 -56| 285 -49"/>
+                                                  <Edge fillStyle0="4" fillStyle1="7" strokeStyle="0" edges="! 285 -49| 288 -47| 287 -48| 288 -50| 292 -51| 293 -52| 316 -41| 336 -27| 337 -28| 337 -30| 335 -33"/>
+                                                  <Edge fillStyle0="4" fillStyle1="1" strokeStyle="0" edges="! 335 -33| 330 -41"/>
+                                                  <Edge fillStyle0="4" fillStyle1="2" strokeStyle="0" edges="! 330 -41| 323 -50"/>
+                                                  <Edge fillStyle0="4" fillStyle1="1" strokeStyle="0" edges="! 323 -50| 316 -59| 314 -60| 313 -60| 309 -59"/>
+                                                  <Edge fillStyle0="4" fillStyle1="2" strokeStyle="0" edges="! 309 -59| 307 -57| 303 -58| 299 -60| 307 -61"/>
+                                                  <Edge fillStyle0="4" fillStyle1="1" strokeStyle="0" edges="! 307 -61| 314 -61| 314 -63[ 313 -78 294 -80| 277 -85| 272 -86| 250 -83[ 212 -79 180 -63| 178 -61| 178 -59| 177 -56| 173 -56| 170 -55| 169 -54| 164 -42| 163 -40| 164 -37| 164 -34| 163 -32| 152 -18| 147 -9[ 149 -3 155 -2| 157 -2| 158 -3| 160 -4| 156 7| 157 8"/>
+                                                  <Edge fillStyle0="4" fillStyle1="6" strokeStyle="0" edges="! 157 8| 161 12| 164 12| 169 10| 171 7"/>
+                                                  <Edge fillStyle0="4" fillStyle1="7" strokeStyle="0" edges="! 171 7| 183 -23"/>
+                                                  <Edge fillStyle0="4" fillStyle1="1" strokeStyle="0" edges="! 183 -23| 185 -27"/>
+                                                  <Edge fillStyle0="4" fillStyle1="7" strokeStyle="0" edges="! 185 -27| 185 -28| 184 -29"/>
+                                                  <Edge fillStyle0="6" fillStyle1="7" strokeStyle="0" edges="! 184 -29| 204 -44| 206 -45"/>
+                                                  <Edge fillStyle0="7" fillStyle1="1" strokeStyle="0" edges="! 185 -27| 186 -28| 184 -24| 183 -23"/>
+                                                  <Edge fillStyle0="7" fillStyle1="6" strokeStyle="0" edges="! 171 7| 173 8| 177 9| 180 9| 181 8| 183 7| 185 5| 186 3| 187 1| 187 -2| 191 -4| 192 -6| 193 -8| 193 -10| 193 -13| 193 -15| 202 -25| 213 -31"/>
+                                                  <Edge fillStyle0="7" fillStyle1="1" strokeStyle="0" edges="! 213 -31| 215 -35| 218 -34| 220 -34"/>
+                                                  <Edge fillStyle0="7" fillStyle1="0" strokeStyle="0" edges="! 220 -34| 221 -34| 222 -35[ 238 -45 260 -44| 261 -44| 276 -43| 288 -40| 292 -39| 293 -39"/>
+                                                  <Edge fillStyle0="7" fillStyle1="1" strokeStyle="0" edges="! 293 -39| 296 -38| 304 -35"/>
+                                                  <Edge fillStyle0="7" fillStyle1="0" strokeStyle="0" edges="! 304 -35| 311 -32| 313 -31| 314 -31| 314 -30| 315 -30| 322 -27| 328 -24| 341 -18"/>
+                                                  <Edge fillStyle0="7" fillStyle1="1" strokeStyle="0" edges="! 341 -18| 346 -21| 346 -23| 335 -33"/>
+                                                  <Edge fillStyle0="5" fillStyle1="2" strokeStyle="0" edges="! 229 -49| 228 -49"/>
+                                                  <Edge fillStyle0="5" fillStyle1="7" strokeStyle="0" edges="! 221 -49| 222 -47| 229 -49"/>
+                                                  <Edge fillStyle0="2" fillStyle1="7" strokeStyle="0" edges="! 229 -49| 280 -50| 285 -49"/>
+                                                  <Edge fillStyle0="1" fillStyle1="6" strokeStyle="0" edges="! 213 -31| 211 -27| 205 -21| 206 -20"/>
+                                                  <Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 206 -20| 220 -34"/>
+                                                  <Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 293 -39| 304 -35"/>
+                                                  <Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 307 -61| 309 -59"/>
+                                                  <Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 323 -50| 328 -46| 330 -41"/>
+                                                  <Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 341 -18| 354 -10| 321 -81| 33 -168| 118 61| 154 76"/>
+                                                  <Edge fillStyle0="1" fillStyle1="6" strokeStyle="0" edges="! 154 76| 152 73| 153 70| 153 68| 149 53| 143 45| 145 39| 149 35| 152 36| 154 36| 155 37| 160 25| 157 9| 157 8"/>
+                                                  <Edge fillStyle0="0" fillStyle1="6" strokeStyle="0" edges="! 206 -20| 191 5| 187 3| 156 78| 154 76"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1772" centerPoint3DX="18.25" centerPoint3DY="8.35">
+                                             <matrix>
+                                                  <Matrix tx="4.95" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(2);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1775" centerPoint3DX="10.7" centerPoint3DY="10.9">
+                                             <matrix>
+                                                  <Matrix tx="1.0" ty="0.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(2);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      play();
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1793" centerPoint3DX="140.75" centerPoint3DY="49.05">
+                                             <matrix>
+                                                  <Matrix tx="1.5" ty="0.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if((_parent._parent._currentframe &gt; 2 &amp;&amp; _parent._parent._currentframe &lt; 15 || _parent._parent._currentframe &gt; 403 &amp;&amp; _parent._parent._currentframe &lt; 460) &amp;&amp; _parent._parent.health &lt; 50)
+   {
+      _parent._parent.health += _root.gamespeed / 3;
+      _parent._parent.fallnum += _root.gamespeed / 3;
+      if(_parent._parent.health &gt; 50)
+      {
+         _parent._parent.health = 50;
+         _parent._parent.fallnum = 50;
+      }
+      if(_currentframe != 2)
+      {
+         gotoAndPlay(2);
+      }
+   }
+   else if(_parent._parent.dead != "true")
+   {
+      gotoAndPlay(1);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+   {
+      gotoAndPlay(3);
+   }
+   if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "red")
+   {
+      _parent._parent.visr = "black";
+      _root.kills = _root.kills + 1;
+      gotoAndPlay(3);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

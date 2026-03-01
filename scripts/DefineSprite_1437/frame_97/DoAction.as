@@ -1,0 +1,2 @@
+automove = "no";
+ihit = "true";

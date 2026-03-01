@@ -1,0 +1,9 @@
+Lesson 5 - Battery Points:
+--- RECORDSEPARATOR ---
+Some attacks will use up battery points.
+--- RECORDSEPARATOR ---
+You can only use these attacks if you have at least one battery point.
+--- RECORDSEPARATOR ---
+If you run out, don't worry - battery points recharge themselves.
+--- RECORDSEPARATOR ---
+Press SPACEBAR to continue.

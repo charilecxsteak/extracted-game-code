@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2285" itemID="69a20280-000002b9" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 2285" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 374 -844[ 432 -824 402 -768[ 356 -683 283 -614| 148 -482[ 157 -472 158 -459| 387 -482[ 424 -487 448 -463[ 470 -441 450 -418[ 431 -396 399 -397| 266 -388| 202 -379[ 124 -371 56 -401[ 4 -362 -53 -333[ -61 -315 -81 -310[ -139 -298 -189 -266| -270 -211[ -149 -169 -26 -138[ 32 -124 6 -72| -9 -52[ -65 3 -131 43| -150 42[ -195 12 -156 -27| -110 -69| -105 -75| -386 -170[ -396 -173 -398 -183[ -413 -234 -357 -256| -327 -272[ -258 -321 -184 -356[ -246 -381 -305 -414[ -390 -304 -493 -209| -524 -184[ -550 -166 -581 -180| -658 -220[ -710 -250 -671 -292[ -658 -305 -640 -299[ -597 -284 -560 -259[ -452 -348 -371 -463[ -328 -525 -261 -486| -201 -452| -206 -480[ -208 -523 -188 -563[ -136 -668 -49 -751[ -40 -759 -28 -761| -16 -764[ 45 -743 6 -693| -3 -684[ -76 -614 -116 -524[ -89 -505 -88 -471[ -87 -430 -130 -423| -141 -421| -133 -418[ -65 -393 -11 -446| 51 -504[ 128 -571 199 -644[ 255 -701 304 -764| 343 -824[ 354 -843 374 -844"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

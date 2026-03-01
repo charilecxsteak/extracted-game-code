@@ -1,0 +1,903 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1530" itemID="69a20280-0000017e" lastModified="1772157771">
+     <timeline>
+          <DOMTimeline name="Symbol 1530">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#cca8bf">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#10f3b7">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1481" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="923.5" ty="17.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fd";
+   _root.nmetype = 6;
+   _root.vss = 4;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1501" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="919.85" ty="16.8" a="1.0" d="0.999755859375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fd";
+   _root.nmetype = 4;
+   _root.vss = 3;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1510" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="688.35" ty="17.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fc";
+   _root.nmetype = 9;
+   _root.vss = 3;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1519" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="233.6" ty="18.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fa";
+   _root.nmetype = 4;
+   _root.vss = 4;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#b5bd4f">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1475" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="465.6" ty="17.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fb";
+   _root.nmetype = 7;
+   _root.vss = 3;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1495" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="685.85" ty="16.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fc";
+   _root.nmetype = 1;
+   _root.vss = 5;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1504" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="922.7" ty="17.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fd";
+   _root.nmetype = 7;
+   _root.vss = 6;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1518" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="686.5" ty="18.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fc";
+   _root.nmetype = 5;
+   _root.vss = 3;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#ffb842">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1469" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="684.8" ty="17.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fc";
+   _root.nmetype = 2;
+   _root.vss = 3;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1494" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="462.5" ty="16.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fb";
+   _root.nmetype = 8;
+   _root.vss = 3;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1503" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="463.55" ty="17.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fb";
+   _root.nmetype = 6;
+   _root.vss = 5;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1512" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="459.9" ty="18.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fb";
+   _root.nmetype = 8;
+   _root.vss = 5;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1522" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="382.15" ty="20.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fa";
+   _root.nmetype = 9;
+   _root.vss = 5;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#b0bfc6">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1463" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="231.9" ty="17.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fa";
+   _root.nmetype = 1;
+   _root.vss = 2;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1488" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="231.75" ty="16.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fa";
+   _root.nmetype = 3;
+   _root.vss = 3;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1502" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="232.4" ty="17.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fa";
+   _root.nmetype = 2;
+   _root.vss = 5;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1511" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="920.55" ty="18.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fd";
+   _root.nmetype = 3;
+   _root.vss = 4;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1521" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="773.7" ty="20.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fb";
+   _root.nmetype = 5;
+   _root.vss = 4;
+   if(eval("f" + _root.fvar)._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1529" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="584.95" ty="17.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   _root.fvar = "fa";
+   _root.nmetype = 10;
+   _root.vss = 9;
+   if(ff._currentframe == 2)
+   {
+      _root.played = true;
+   }
+   _root.gotoAndPlay(12);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#93f2f9">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="1.0">
+                                                            <fill>
+                                                                 <SolidColor color="#000000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                                  <StrokeStyle index="2">
+                                                       <SolidStroke scaleMode="normal" weight="1.0">
+                                                            <fill>
+                                                                 <SolidColor color="#000000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 20003 -1626| 20003 1569| 16841 1569| 16841 -1626| 20003 -1626"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 6220 -1658| 6220 1537| 3057 1537| 3057 -1658| 6220 -1658"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 10855 -1629| 10855 1566| 7693 1566| 7693 -1629| 10855 -1629"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! 15318 -1658| 15318 1537| 12157 1537| 12157 -1658| 15318 -1658"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="1.0">
+                                                            <fill>
+                                                                 <SolidColor color="#000000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 17034 -1658| 17034 1537| 13873 1537| 13873 -1658| 17034 -1658"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 9243 -1629| 9243 1566| 6081 1566| 6081 -1629| 9243 -1629"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="1.0">
+                                                            <fill>
+                                                                 <SolidColor color="#000000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 13247 -1629| 13247 1566| 10085 1566| 10085 -1629| 13247 -1629"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 7" color="#78c9ca">
+                         <frames>
+                              <DOMFrame index="0" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1452" name="ffc" centerPoint3DX="858.2" centerPoint3DY="207.7">
+                                             <matrix>
+                                                  <Matrix tx="762.05" ty="172.1" a="0.85260009765625" d="0.85260009765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.round &gt; 4)
+   {
+      _visible = 0;
+   }
+   else
+   {
+      _visible = 1;
+   }
+   if(_root.fc == "Done" || _root.round != _root.unlocked)
+   {
+      gotoAndStop(2);
+   }
+   else
+   {
+      gotoAndStop(1);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 8" color="#84c88b">
+                         <frames>
+                              <DOMFrame index="0" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1452" name="ffd" centerPoint3DX="1088.35" centerPoint3DY="207.7">
+                                             <matrix>
+                                                  <Matrix tx="992.2" ty="172.1" a="0.85260009765625" d="0.85260009765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.round &gt; 4)
+   {
+      _visible = 0;
+   }
+   else
+   {
+      _visible = 1;
+   }
+   if(_root.fd == "Done" || _root.round != _root.unlocked)
+   {
+      gotoAndStop(2);
+   }
+   else
+   {
+      gotoAndStop(1);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 9" color="#f2eda3">
+                         <frames>
+                              <DOMFrame index="0" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1452" name="ffb" centerPoint3DX="628.05" centerPoint3DY="207.7">
+                                             <matrix>
+                                                  <Matrix tx="531.9" ty="172.1" a="0.85260009765625" d="0.85260009765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.round &gt; 4)
+   {
+      _visible = 0;
+   }
+   else
+   {
+      _visible = 1;
+   }
+   if(_root.round != _root.unlocked || _root.fb == "Done")
+   {
+      gotoAndStop(2);
+   }
+   else
+   {
+      gotoAndStop(1);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 10" color="#e766bf">
+                         <frames>
+                              <DOMFrame index="0" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1452" name="ffa" centerPoint3DX="397.9" centerPoint3DY="207.7">
+                                             <matrix>
+                                                  <Matrix tx="301.75" ty="172.1" a="0.85260009765625" d="0.85260009765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.round &gt; 4)
+   {
+      _visible = 0;
+   }
+   else
+   {
+      _visible = 1;
+   }
+   if(_root.round != _root.unlocked || _root.fa == "Done")
+   {
+      trace(1111);
+      gotoAndStop(2);
+   }
+   else
+   {
+      trace(2222);
+      gotoAndStop(1);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 11" color="#46d6fd">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1452" name="ffb" centerPoint3DX="932.0" centerPoint3DY="207.7">
+                                             <matrix>
+                                                  <Matrix tx="835.85" ty="172.1" a="0.85260009765625" d="0.85260009765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.round &gt; 5)
+   {
+      _visible = 0;
+   }
+   else
+   {
+      _visible = 1;
+   }
+   if(_root.fb == "Done" || _root.round != _root.unlocked)
+   {
+      gotoAndStop(2);
+   }
+   else
+   {
+      gotoAndStop(1);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 12" color="#09d7af">
+                         <frames>
+                              <DOMFrame index="0" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1452" name="ffa" centerPoint3DX="547.95" centerPoint3DY="207.7">
+                                             <matrix>
+                                                  <Matrix tx="451.8" ty="172.1" a="0.85260009765625" d="0.85260009765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.round &gt; 5)
+   {
+      _visible = 0;
+   }
+   else
+   {
+      _visible = 1;
+   }
+   if(_root.fa == "Done" || _root.round != _root.unlocked)
+   {
+      gotoAndStop(2);
+   }
+   else
+   {
+      gotoAndStop(1);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 13" color="#6637e7" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="5" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1452" name="ff" centerPoint3DX="709.1" centerPoint3DY="205.3">
+                                             <matrix>
+                                                  <Matrix tx="612.95" ty="169.7" a="0.85260009765625" d="0.85260009765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.fa == "Done")
+   {
+      gotoAndStop(2);
+   }
+   else
+   {
+      gotoAndStop(1);
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

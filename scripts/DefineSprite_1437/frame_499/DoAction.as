@@ -1,0 +1,10 @@
+_root.gamespeed = 0.25;
+charge--;
+if(_root.forecount2 > 0)
+{
+   tellTarget("_root." add _root.candidate)
+   {
+      setProperty("_root." add _root.candidate, _X, _X);
+      gotoAndPlay(193);
+   }
+}

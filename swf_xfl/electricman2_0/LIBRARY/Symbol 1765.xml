@@ -1,0 +1,825 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1765" itemID="69a20280-000001bb" lastModified="1772157771">
+     <timeline>
+          <DOMTimeline name="Symbol 1765">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#63aa78">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+if(_parent._parent.dead == "true" &amp;&amp; _parent._parent.visr == "black")
+{
+   gotoAndPlay(19);
+}
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="19" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <Actionscript>
+                                        <script>gotoAndPlay(20);
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#c7f2a6">
+                         <frames>
+                              <DOMFrame index="0" duration="20" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1674" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#5384ed">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.94921875"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.8984375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.8515625"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.80078125"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.69921875"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.6484375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.6015625"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.55078125"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.44921875"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.3984375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.3515625"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.30078125"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.25"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.19921875"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.1484375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.1015625"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1764" name="head" centerPoint3DX="14.05" centerPoint3DY="11.7">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.05078125"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   if(_root.gamespeed == 1)
+   {
+      if(Number(_currentframe) &gt; 21)
+      {
+         frame = (Number(_currentframe) - 18) / 4;
+         gotoAndPlay(frame);
+      }
+   }
+   if(_root.gamespeed == 0.25)
+   {
+      if(Number(_currentframe) &lt; 21)
+      {
+         frame = Number(_currentframe) * 4 + 18;
+         gotoAndPlay(frame);
+      }
+   }
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#ae07e8" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="21" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#ff3300"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#999999"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="3">
+                                                       <SolidColor color="#777777"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="4">
+                                                       <SolidColor color="#888888"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="1.75">
+                                                            <fill>
+                                                                 <SolidColor color="#333333"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="3" fillStyle1="4" strokeStyle="0" edges="! -32 -170| -28 -166| 4 -165| 10 -163| 10 -164| 13 -163| 29 -154| 62 -121| 69 -109[ 82 -89 83 -65[ 86 -20 69 20| 65 29[ 38 65 -2 87| -14 94| -28 102| -50 106| -58 107| -66 111[ -90 116 -113 111| -126 107| -133 103| -139 99| -141 97"/>
+                                                  <Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! -141 97| -121 121[ -70 172 1 172[ 72 172 122 121[ 173 70 173 -1[ 173 -72 122 -123[ 72 -173 1 -173| -32 -170"/>
+                                                  <Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! -32 -170| -47 -173| -91 -161| -100 -149| -99 -141"/>
+                                                  <Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="! -99 -141[ -68 -163 -32 -170"/>
+                                                  <Edge fillStyle0="2" fillStyle1="4" strokeStyle="0" edges="! -150 48| -149 48[ -140 49 -134 57| -131 56| -97 71| -75 75| -50 74[ -13 62 18 35| 29 24| 48 -7[ 54 -32 52 -57| 49 -82| 9 -131| -5 -134| -40 -136[ -47 -135 -50 -139| -78 -133| -93 -135"/>
+                                                  <Edge fillStyle0="2" fillStyle1="3" strokeStyle="0" edges="! -93 -135| -100 -127| -111 -114| -134 -79| -146 -60| -149 -48| -152 -18| -151 44| -150 48"/>
+                                                  <Edge fillStyle0="4" fillStyle1="3" strokeStyle="0" edges="! -150 48| -157 52| -161 59"/>
+                                                  <Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="! -161 59| -154 77| -142 96| -141 97"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -141 97| -144 95| -155 84[ -168 72 -161 59"/>
+                                                  <Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! -161 59[ -172 31 -172 -1[ -172 -72 -121 -123| -99 -141"/>
+                                                  <Edge fillStyle0="4" fillStyle1="3" strokeStyle="0" edges="! -99 -141| -93 -135"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,13 @@
+In Electricman2, you can save and load your progress using 
+--- RECORDSEPARATOR ---
+password codes.
+--- RECORDSEPARATOR ---
+Enter your code below and click "CONTINUE".
+--- RECORDSEPARATOR ---
+If you do not have a code, start a new game by clicking 
+--- RECORDSEPARATOR ---
+"BACK" and then "NEW".
+--- RECORDSEPARATOR ---
+If you have played this game before, remember to save your 
+--- RECORDSEPARATOR ---
+game and write down the code.

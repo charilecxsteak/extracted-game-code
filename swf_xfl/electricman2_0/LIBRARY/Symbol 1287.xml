@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1287" itemID="69a20280-0000012d" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 1287" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 2760 -15980| 3020 -16040| 3240 -16060[ 4740 -15120 5040 -13260[ 5560 -10200 5800 -7100| 5800 -6160[ 5640 -3660 3820 -1880[ 1960 -80 -40 1480| -420 1540[ -1920 1060 -1260 -380[ -1020 -900 -580 -1280[ 1080 -2760 2500 -4500[ 3500 -5740 3300 -7360| 2740 -11340| 2480 -12500[ 2300 -12560 2100 -12680[ 1180 -13260 1240 -14360[ 1280 -14920 1580 -15280[ 2220 -15920 2760 -15980"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

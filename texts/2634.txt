@@ -1,0 +1,9 @@
+Lesson 4 - Modifiers:
+--- RECORDSEPARATOR ---
+The punches will change if you are surrounded.
+--- RECORDSEPARATOR ---
+The kicks will change if there are people behind you, or if you are running.
+--- RECORDSEPARATOR ---
+The grabs will also change if you are running while executing them.
+--- RECORDSEPARATOR ---
+Press SPACEBAR to continue.

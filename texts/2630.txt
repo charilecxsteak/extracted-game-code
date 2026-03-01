@@ -1,0 +1,7 @@
+Lesson 2 - Dodging:
+--- RECORDSEPARATOR ---
+Dodging can be a valuable skill for getting out of difficult situations.
+--- RECORDSEPARATOR ---
+Press the DOWN arrow key to dodge and you will flip out of the way.
+--- RECORDSEPARATOR ---
+Press SPACEBAR to continue.

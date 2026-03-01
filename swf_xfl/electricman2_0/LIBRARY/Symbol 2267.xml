@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2267" itemID="69a20280-000002a7" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 2267" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 2800 -17120| 3400 -18960[ 3480 -19140 3680 -19180| 3860 -19220[ 4980 -18960 4540 -17780[ 3440 -14760 1960 -11900[ 1660 -10840 1120 -9920[ 1100 -9660 840 -9320| -120 -8200| -880 -7200[ -1160 -6360 -1660 -5600| -1820 -5340[ -1540 -3900 -760 -2720[ -200 -1880 -80 -920[ 20 -40 -820 40| -4540 180| -4760 0[ -5160 -1100 -3940 -1300[ -2860 -1460 -1760 -1340[ -2940 -3140 -3260 -5260[ -3360 -5980 -2940 -6580| -2520 -7180| -2640 -7440[ -2840 -8160 -2660 -8860| -2600 -9100| -3580 -9060| -4300 -9000| -5500 -3300[ -5700 -2220 -6840 -2460| -8920 -2700[ -9320 -2720 -9400 -3100[ -9600 -3940 -8740 -4020| -6820 -4060| -5640 -9760[ -5500 -10380 -4880 -10440| -2200 -10600| -1900 -11660| -1140 -13860| -860 -14080| -680 -14100[ 540 -13720 -20 -12380| -640 -10580| -260 -10580| 2340 -16260| 2800 -17120"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 7120 -11060[ 7360 -9520 7400 -7920| 7380 -6820[ 8020 -5620 6760 -5180[ 6400 -5040 6180 -5380[ 5860 -5840 5860 -6440| 5880 -9340[ 5880 -10300 5640 -11220[ 5320 -12480 6320 -12860[ 7280 -12440 7120 -11240| 7120 -11060"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

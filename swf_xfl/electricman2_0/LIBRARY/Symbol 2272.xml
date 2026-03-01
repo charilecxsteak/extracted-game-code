@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2272" itemID="69a20280-000002ac" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 2272" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 158 -1017[ 148 -995 145 -972[ 120 -812 78 -656| 72 -618[ 69 -590 56 -570[ 65 -548 38 -518| -37 -422| -68 -389[ 25 -366 142 -365[ 208 -364 224 -310[ 229 -293 216 -282| 124 -203| 104 -204[ 67 -232 96 -269| 116 -291| -164 -325[ -173 -326 -175 -335[ -187 -374 -154 -407[ -112 -449 -77 -497| -233 -452| -231 -435| -226 -405[ -197 -302 -175 -196[ -134 -137 -162 -79| -172 -69[ -236 -44 -302 -32[ -324 -29 -330 -49[ -343 -95 -291 -108| -230 -126[ -268 -273 -313 -423[ -324 -461 -309 -483[ -306 -498 -289 -506| -229 -532[ -246 -545 -241 -580[ -224 -707 -178 -823[ -171 -882 -121 -903| -121 -904[ -67 -883 -95 -827[ -127 -762 -140 -691[ -145 -665 -158 -644| -163 -555| -81 -575| -16 -591| -13 -615| 10 -722[ 13 -740 27 -755| 85 -1058[ 92 -1100 130 -1108[ 187 -1081 158 -1017"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 265 -853| 282 -858[ 334 -844 339 -782| 344 -748| 347 -714[ 367 -651 368 -582| 369 -561[ 409 -489 375 -418| 365 -411[ 285 -396 279 -471[ 276 -505 308 -518[ 291 -590 282 -666| 277 -692[ 261 -763 253 -833[ 252 -847 265 -853"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

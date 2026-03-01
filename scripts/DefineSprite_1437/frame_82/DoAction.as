@@ -1,0 +1,2 @@
+hhit = "false";
+ihit = "false";

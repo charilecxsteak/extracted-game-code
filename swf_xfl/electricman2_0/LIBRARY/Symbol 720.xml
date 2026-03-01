@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 720" itemID="69a20280-000000f9" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 720" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 616 -2497[ 685 -2428 685 -2330[ 685 -2232 616 -2163[ 589 -2136 557 -2119| 531 -2108| 527 -2106| 287 -2117| 297 -2125| 314 -2137| 311 -2138| 298 -2148| 282 -2163| 268 -2178[ 213 -2243 213 -2330[ 213 -2428 282 -2497[ 351 -2566 449 -2566[ 547 -2566 616 -2497"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 283 -2113| 287 -2117| 527 -2106| 484 -2096| 487 -2092| 495 -2081[ 518 -2051 546 -2026[ 650 -1932 763 -1852[ 986 -1844 1209 -1882[ 1279 -1944 1315 -1860[ 1330 -1827 1314 -1795[ 1300 -1765 1267 -1761| 842 -1735| 821 -1734[ 704 -1724 615 -1803| 464 -1932| 420 -1971| 415 -1953| 333 -1660[ 337 -1624 324 -1591[ 319 -1578 310 -1567| 275 -1343| 264 -1320[ 230 -1215 203 -1108[ 237 -1082 238 -1028[ 239 -998 247 -970[ 294 -785 320 -595| 332 -541[ 349 -488 327 -439| 145 -36| 91 73[ 138 138 206 193[ 218 202 215 217[ 201 308 116 257[ 65 227 22 185[ -16 147 -36 100[ -49 71 -33 42[ 78 -158 166 -370| 220 -509[ 191 -711 133 -911| 131 -917| 70 -813[ 11 -721 -33 -621[ -80 -516 -149 -431[ -157 -420 -172 -416[ -285 -389 -402 -373| -589 -340[ -602 -250 -620 -163[ -624 -146 -642 -142[ -710 -126 -715 -192[ -722 -292 -710 -389[ -705 -428 -666 -439[ -560 -470 -451 -487| -218 -526[ -147 -654 -84 -785| -76 -797| 14 -968| 70 -1072[ 84 -1140 108 -1204[ 166 -1359 181 -1523[ 186 -1585 218 -1638[ 224 -1744 258 -1841| 299 -1980| -4 -1785| -36 -1763[ -24 -1688 -27 -1608| -28 -1535[ 79 -1511 38 -1421[ 29 -1399 6 -1390[ -71 -1361 -127 -1415[ -149 -1436 -147 -1468[ -139 -1640 -151 -1808[ -152 -1821 -141 -1830[ 20 -1953 196 -2048[ 244 -2074 283 -2113"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

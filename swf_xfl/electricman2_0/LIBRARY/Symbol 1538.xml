@@ -1,0 +1,805 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1538" itemID="69a20280-00000180" lastModified="1772157771">
+     <timeline>
+          <DOMTimeline name="Symbol 1538">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#9ea3ea">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <Actionscript>
+                                        <script>_root.round = Number(_root.round) + 1;
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <Actionscript>
+                                        <script>_root.round = Number(_root.round) - 1;
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="14" duration="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#e1899a">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="100.2" centerPoint3DY="-70.7">
+                                             <matrix>
+                                                  <Matrix tx="-17.25" ty="-82.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="96.0" centerPoint3DY="-70.85">
+                                             <matrix>
+                                                  <Matrix tx="-21.45" ty="-82.15" a="0.94342041015625" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.9375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="83.35" centerPoint3DY="-71.25">
+                                             <matrix>
+                                                  <Matrix tx="-34.1" ty="-82.55" a="0.773681640625" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="62.3" centerPoint3DY="-71.95">
+                                             <matrix>
+                                                  <Matrix tx="-55.15" ty="-83.25" a="0.49078369140625" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.4375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="32.85" centerPoint3DY="-72.95">
+                                             <matrix>
+                                                  <Matrix tx="-84.6" ty="-84.25" a="0.0947265625" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="158.1" centerPoint3DY="-70.0">
+                                             <matrix>
+                                                  <Matrix tx="40.65" ty="-81.3" a="0.139801025390625" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="132.8" centerPoint3DY="-70.3">
+                                             <matrix>
+                                                  <Matrix tx="15.35" ty="-81.6" a="0.516143798828125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.4375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="114.7" centerPoint3DY="-70.5">
+                                             <matrix>
+                                                  <Matrix tx="-2.75" ty="-81.8" a="0.7849578857421875" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="103.85" centerPoint3DY="-70.65">
+                                             <matrix>
+                                                  <Matrix tx="-13.6" ty="-81.95" a="0.9462432861328125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.9375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="100.2" centerPoint3DY="-70.7">
+                                             <matrix>
+                                                  <Matrix tx="-17.25" ty="-82.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="103.35" centerPoint3DY="-70.8">
+                                             <matrix>
+                                                  <Matrix tx="-14.1" ty="-82.1" a="0.9462432861328125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.9375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="112.8" centerPoint3DY="-71.05">
+                                             <matrix>
+                                                  <Matrix tx="-4.65" ty="-82.35" a="0.7849578857421875" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="128.5" centerPoint3DY="-71.55">
+                                             <matrix>
+                                                  <Matrix tx="11.05" ty="-82.85" a="0.516143798828125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.4375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="150.55" centerPoint3DY="-72.2">
+                                             <matrix>
+                                                  <Matrix tx="33.1" ty="-83.5" a="0.139801025390625" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="46.95" centerPoint3DY="-70.7">
+                                             <matrix>
+                                                  <Matrix tx="-70.5" ty="-82.0" a="0.049652099609375" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="70.25" centerPoint3DY="-70.7">
+                                             <matrix>
+                                                  <Matrix tx="-47.2" ty="-82.0" a="0.465423583984375" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.4375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="86.9" centerPoint3DY="-70.7">
+                                             <matrix>
+                                                  <Matrix tx="-30.55" ty="-82.0" a="0.762420654296875" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.75"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="96.85" centerPoint3DY="-70.7">
+                                             <matrix>
+                                                  <Matrix tx="-20.6" ty="-82.0" a="0.9405975341796875" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.9375"/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1537" centerPoint3DX="100.2" centerPoint3DY="-70.7">
+                                             <matrix>
+                                                  <Matrix tx="-17.25" ty="-82.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#e1099b" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="154.25" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-310.65" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="117.5" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-347.4" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="7.25" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-457.65" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="-176.5" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-641.4" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="-433.75" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-898.65" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="718.55" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="253.65" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="471.65" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="6.75" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="295.3" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-169.6" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="189.5" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-275.4" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="154.25" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-310.65" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="189.3" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-275.6" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="294.4" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-170.5" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="469.55" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="4.65" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="714.8" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="249.9" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="-441.9" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-906.8" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="-181.1" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-646.0" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="5.2" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-459.7" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="117.0" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-347.9" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="154.25" centerPoint3DY="149.0">
+                                             <matrix>
+                                                  <Matrix tx="-310.65" ty="1.1" a="0.51953125" d="0.51953125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(enterFrame){
+   gotoAndPlay(_root.round);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

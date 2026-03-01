@@ -1,0 +1,509 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2543" itemID="69a20280-00000307" lastModified="1772157771">
+     <timeline>
+          <DOMTimeline name="Symbol 2543">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#44b0af">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>if(_root.nmetype == "3" || _root.nmetype == "8" || _root.nmetype == "10")
+{
+   gotoAndStop(100);
+}
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="97" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="98" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+_root.play();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="99" keyMode="9728">
+                                   <Actionscript>
+                                        <script>play();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="100" duration="97" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="197" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+_root.play();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#8a79b8">
+                         <frames>
+                              <DOMFrame index="0" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="712" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>5</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="736" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>4</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="36" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="718" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>3</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="54" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="702" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>2</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" duration="19" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="688" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>1</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="91" duration="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="99" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="712" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>5</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="117" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="736" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>4</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="135" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="718" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>3</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="153" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="702" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>2</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="171" duration="19" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="688" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="265.35" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>1</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="190" duration="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#18d5e9" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="72" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-168.55" fontRenderingMode="standard" width="4418" height="473" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="170.55" ty="-11.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>The fight will begin in        seconds...</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="24.55" bitmapSize="491" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" duration="19" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-168.55" fontRenderingMode="standard" width="4296" height="473" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="170.55" ty="-11.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>The fight will begin in        second...</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="24.55" bitmapSize="491" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="91" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-40.1" fontRenderingMode="standard" width="1531" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="206.4" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>GO!</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="98" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="99" duration="72" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-168.55" fontRenderingMode="standard" width="4418" height="473" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="170.55" ty="-11.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>The fight will begin in        seconds...</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="24.55" bitmapSize="491" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="171" duration="19" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-168.55" fontRenderingMode="standard" width="4296" height="473" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="170.55" ty="-11.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>The fight will begin in        second...</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="24.55" bitmapSize="491" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="190" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-40.1" fontRenderingMode="standard" width="1531" height="1104" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="206.4" ty="-39.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>GO!</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="67.55" bitmapSize="1351" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="197" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 0" color="#f92da1">
+                         <frames>
+                              <DOMFrame index="0" duration="198" keyMode="9728" soundName="sound2527.wav" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="9300" level0="32475" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="43300" level0="878" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 1" color="#ac0af0">
+                         <frames>
+                              <DOMFrame index="0" duration="18" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="18" duration="180" keyMode="9728" soundName="sound2527.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 2" color="#b68b9b">
+                         <frames>
+                              <DOMFrame index="0" duration="36" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="36" duration="162" keyMode="9728" soundName="sound2527.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 3" color="#6b36e9">
+                         <frames>
+                              <DOMFrame index="0" duration="54" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="54" duration="144" keyMode="9728" soundName="sound2527.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 4" color="#ecfead">
+                         <frames>
+                              <DOMFrame index="0" duration="72" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="72" duration="126" keyMode="9728" soundName="sound2527.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 5" color="#f812e3">
+                         <frames>
+                              <DOMFrame index="0" duration="91" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="91" duration="107" keyMode="9728" soundName="sound2534.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 6" color="#b30ae4">
+                         <frames>
+                              <DOMFrame index="0" duration="99" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="99" duration="99" keyMode="9728" soundName="sound2527.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 7" color="#c7f29b">
+                         <frames>
+                              <DOMFrame index="0" duration="117" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="117" duration="81" keyMode="9728" soundName="sound2527.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 8" color="#bb6bb5">
+                         <frames>
+                              <DOMFrame index="0" duration="135" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="135" duration="63" keyMode="9728" soundName="sound2527.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 9" color="#8c96e8">
+                         <frames>
+                              <DOMFrame index="0" duration="153" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="153" duration="45" keyMode="9728" soundName="sound2527.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 10" color="#faf078">
+                         <frames>
+                              <DOMFrame index="0" duration="171" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="171" duration="27" keyMode="9728" soundName="sound2527.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 11" color="#7ebad9">
+                         <frames>
+                              <DOMFrame index="0" duration="190" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="190" duration="8" keyMode="9728" soundName="sound2534.wav" soundEffect="fade out">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="66192" level0="32768" level1="32768"/>
+                                        <SoundEnvelopePoint mark44="88256" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

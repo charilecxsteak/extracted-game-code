@@ -1,0 +1,3 @@
+Running while executing a move will create a new attack. SlowMotion attacks
+--- RECORDSEPARATOR ---
+and the flipover throw (Press D when running) both use up battery points.

@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1675" itemID="69a20280-000001b4" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 1675" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#ffcc00"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#ffff00"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 3980 -980[ 4260 -920 4320 -620| 4360 -480| 4800 -460| 4880 -420[ 5020 -220 4880 0| 4080 860| 3820 1080| 3780 1100[ 3960 1420 3720 1640| 3600 1720| 2420 1900[ 2480 2220 2200 2320| 1960 2340| 200 2060| 120 2100[ -100 2420 -420 2600| -500 2600| -560 2560| -700 2520| -820 2420| -1420 1720| -1480 1640[ -1660 1380 -1900 1160| -2100 840| -2100 740| -2120 680| -2020 380| -1860 280| -1720 280| -480 280[ -300 280 -220 440| 1100 100| 1580 80| 1760 220| 2520 100| 2660 60| 3320 -100| 3720 -800| 3980 -980"/>
+                                                  <Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 4200 40[ 3960 20 3940 -220| 3580 300| 3420 380| 2560 580| 1480 700| 1380 660| 1340 560[ 900 560 480 740| -60 920| -560 860| -620 740| -1580 740| -1340 1060| -900 1620| -780 1760| -480 2080| -40 1600| 20 1580| 880 1660| 1380 1760| 1920 1820[ 1880 1440 2280 1420| 2560 1400| 3320 1300[ 3140 1000 3380 780| 3620 620| 3840 480| 4200 60| 4200 40"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

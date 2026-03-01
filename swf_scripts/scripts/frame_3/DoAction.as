@@ -1,0 +1,16 @@
+_root.mainmusic = new Sound(mainmus);
+_root.mainmusic.attachSound("menu2");
+_root.mainmusic.start(0,99999999999999);
+musvol = 100;
+musadd = 0;
+skilllevel = "Normal";
+colour = "Yellow";
+username = "";
+round = 1;
+unlocked = 1;
+fa = "Incomplete";
+fb = "Incomplete";
+fc = "Incomplete";
+fd = "Incomplete";
+_root.emhealth = 50;
+_root.emtotalhealth = 50;

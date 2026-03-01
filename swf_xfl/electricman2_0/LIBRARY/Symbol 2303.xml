@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2303" itemID="69a20280-000002ca" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 2303" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 135 -115[ 49 -74 -42 -52| 132 0| 141 -3[ 209 3 181 60| 162 81[ 90 124 8 127[ -9 128 -16 111[ -31 70 3 50[ -93 19 -180 -30[ -192 -30 -199 -42| -199 -43[ -209 -62 -206 -76| -205 -78| -203 -83[ -196 -98 -171 -106| -167 -107| -53 -138| 17 -160| -46 -179| -203 -226[ -286 -109 -398 -16| -425 0| -464 2[ -551 -12 -622 -61[ -635 -70 -632 -86[ -626 -120 -592 -122[ -521 -105 -453 -78| -426 -101[ -374 -138 -338 -187| -322 -210[ -287 -271 -233 -311| -217 -318| -215 -317| -212 -318[ -114 -284 -15 -253| -9 -250[ 72 -239 145 -207| 293 -211| 304 -229[ 319 -251 342 -253[ 388 -249 390 -221| 457 -232[ 551 -248 629 -296| 656 -319[ 668 -334 685 -334[ 753 -308 704 -252[ 640 -178 540 -166| 524 -164| 346 -137| 325 -94| 315 -74[ 344 -6 276 14[ 238 25 219 -8[ 202 -38 217 -71| 244 -126| 150 -128| 135 -115"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 611 -53[ 659 -69 709 -77[ 825 -95 929 -144[ 993 -122 951 -70[ 940 -56 923 -50[ 782 3 632 29| 573 45[ 504 72 473 17| 470 3[ 472 -69 547 -50| 611 -53"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

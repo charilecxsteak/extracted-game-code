@@ -1,0 +1,7 @@
+Lesson 7 - Slow Motion Modifiers:
+--- RECORDSEPARATOR ---
+Just like normal attacks, these will also modify.
+--- RECORDSEPARATOR ---
+Slow Motion kicks and Slow Motion grabs will both change when running.
+--- RECORDSEPARATOR ---
+Press SPACEBAR to continue.

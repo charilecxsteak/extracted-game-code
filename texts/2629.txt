@@ -1,0 +1,5 @@
+Lesson 1 - Running:
+--- RECORDSEPARATOR ---
+You can run side to side using the LEFT and RIGHT arrow keys.
+--- RECORDSEPARATOR ---
+Press SPACEBAR to continue.

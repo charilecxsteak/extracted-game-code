@@ -1,0 +1,217 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1609" itemID="69a20280-0000019d" lastModified="1772157771">
+     <timeline>
+          <DOMTimeline name="Symbol 1609">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#fdfb67">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>superbar._xscale += random(3) + 2;
+if(superbar._xscale &gt; 100)
+{
+   superbar._xscale = 100;
+   _root.play();
+}
+superbar._alpha = random(30) + 70;
+show = Math.floor(superbar._xscale) add "% complete";
+if(_root.nmetype == 1)
+{
+   enemyname = "the Replicants";
+}
+if(_root.nmetype == 2)
+{
+   enemyname = "the Cirrian Guard";
+}
+if(_root.nmetype == 3)
+{
+   enemyname = "the Dozermen";
+}
+if(_root.nmetype == 4)
+{
+   enemyname = "the Plague";
+}
+if(_root.nmetype == 5)
+{
+   enemyname = "Tech Team";
+}
+if(_root.nmetype == 6)
+{
+   enemyname = "the Toxic 10";
+}
+if(_root.nmetype == 7)
+{
+   enemyname = "the Frozen";
+}
+if(_root.nmetype == 8)
+{
+   enemyname = "the Pyromaniacs";
+}
+if(_root.nmetype == 9)
+{
+   enemyname = "the Blind";
+}
+if(_root.nmetype == 10)
+{
+   enemyname = "Death";
+}
+weewah = "Electricman versus " add enemyname;
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script>gotoAndPlay(1);
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#fdb298" layerType="mask" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 171" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-11.05" ty="121.8" a="0.9273529052734375" d="0.04412841796875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#c8adbc" parentLayerIndex="1" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1608" name="superbar" centerPoint3DX="-9.1" centerPoint3DY="139.75">
+                                             <matrix>
+                                                  <Matrix tx="-311.05" ty="123.25" a="0.00830078125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#ac04e7">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText fontRenderingMode="device" width="533.95" height="18.1" isSelectable="false" variableName="show">
+                                             <matrix>
+                                                  <Matrix tx="-245.0" ty="91.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Loading {29fcjr7ds9sd.tr84jr} 87% Comlplete</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="right" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" autoKern="false" size="15.75" bitmapSize="315" face="Courier New CE" fillColor="#00ff00" alpha="1.0"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#fc14b8">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="2121" height="947" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-310.9" ty="-171.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Loading</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="49.1" bitmapSize="982" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#00ff00" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#76f4d5">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText fontRenderingMode="device" width="476.8" height="18.1" variableName="weewah">
+                                             <matrix>
+                                                  <Matrix tx="-307.2" ty="-108.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>The Tournament of Voltagen</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" autoKern="false" size="15.75" bitmapSize="315" face="Courier New CE" fillColor="#00ff00" alpha="1.0"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 7" color="#b8acd0">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="2121" height="947" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-305.85" ty="-167.4"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Loading</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="49.1" bitmapSize="982" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Tahoma-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 8" color="#84ad8e" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="2.0">
+                                                            <fill>
+                                                                 <SolidColor color="#66ff00"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 5798 2615| -6201 2615| -6201 2255| 5798 2255| 5798 2615"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

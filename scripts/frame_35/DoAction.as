@@ -1,0 +1,12 @@
+stopAllSounds();
+_quality = "HIGH";
+_root.musadd = 0;
+_root.mainmusic.attachSound("menu2");
+_root.mainmusic.start(0,99999999999999);
+stop();
+s1_txt.text = "+" + score1;
+s2_txt.text = "+" + score2;
+s3_txt.text = "+" + score3;
+s4_txt.text = "+" + score4;
+s5_txt.text = "  " + levelScore;
+s6_txt.text = "  " + _root.score;

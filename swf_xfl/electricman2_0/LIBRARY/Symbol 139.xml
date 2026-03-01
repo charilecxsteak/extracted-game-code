@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 139" itemID="69a20280-0000006f" lastModified="1772157771">
+     <timeline>
+          <DOMTimeline name="Symbol 139">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#d7f23b">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#fc2074" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 213 -272[ 167 -235 137 -183[ 113 -142 83 -104| 80 -91| 78 -79| 75 -65[ 30 -14 -9 41[ 14 58 24 91| 27 116| 17 127| -16 150| -40 138| -59 120| -60 119| -112 214[ -133 257 -163 297| -163 310| -163 323| -171 336[ -188 368 -223 374| -248 364| -262 353| -265 340| -266 314| -266 301| -259 288[ -248 258 -224 235| -214 224| -214 211| -214 198| -214 185| -208 174| -171 146| -135 80[ -210 35 -274 -23| -288 -35[ -324 -36 -346 -63| -352 -74[ -359 -99 -339 -112| -309 -126[ -194 -85 -95 3| -74 -36[ -51 -80 -12 -113| -8 -126| -7 -139| -7 -152[ 49 -218 93 -296[ 112 -330 148 -359| 173 -365| 174 -367[ 279 -397 341 -319| 351 -307| 353 -294[ 355 -255 350 -217| 342 -191| 328 -183| 312 -178[ 299 -182 287 -188| 273 -199| 270 -212| 269 -251| 269 -272| 264 -275| 213 -272"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 0" color="#f35486">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728" soundName="sound121.wav">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

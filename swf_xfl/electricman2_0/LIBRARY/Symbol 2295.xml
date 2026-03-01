@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2295" itemID="69a20280-000002c3" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 2295" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 66 -210| 236 -208| 244 -208[ 380 -215 513 -203| 597 -193| 673 -186| 732 -179[ 765 -174 761 -141[ 758 -110 726 -109| 596 -113| 503 -123| 290 -130| 286 -129| 241 -114| 79 -88[ 60 -86 50 -103[ 42 -117 43 -128[ 32 -129 25 -135| -72 -88| -13 -72| 196 -26| 204 -19[ 222 35 163 53| 56 83[ 46 86 37 78[ 5 52 29 18| -26 7[ -105 -9 -177 -42[ -194 -49 -193 -67[ -193 -115 -147 -139| -113 -156| -261 -154| -296 -147| -557 -38[ -579 -28 -602 -27[ -639 -26 -668 -50| -686 -59[ -737 -68 -776 -96[ -783 -101 -783 -110[ -780 -166 -718 -153[ -658 -141 -608 -108| -601 -109[ -576 -115 -553 -126| -526 -134| -476 -159[ -378 -206 -277 -237| -54 -234[ 6 -232 60 -214| 66 -210"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 596 -70| 596 -68| 934 -64[ 965 -63 971 -33| 972 -30[ 970 6 934 7| 526 8[ 497 8 484 -16| 482 -19[ 459 -87 531 -98| 547 -100[ 584 -104 596 -70"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

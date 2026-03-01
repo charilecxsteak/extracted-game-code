@@ -1,0 +1,201 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 97" itemID="69a20280-00000061" lastModified="1772157771">
+     <timeline>
+          <DOMTimeline name="Symbol 97">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#d9b746">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stopAllSounds();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" duration="196" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="199" keyMode="9728">
+                                   <Actionscript>
+                                        <script>_root.play();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#ebe61b" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills/>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="1.0">
+                                                            <fill>
+                                                                 <SolidColor color="#00ff00"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -6515 -4087| 6516 -4087| 6516 4088| -6515 4088| -6515 -4087"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 0" color="#5baf8b">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound86.wav" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 1" color="#c344f4">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound87.wav" outPoint44="621286" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 2" color="#83b7f9">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound88.wav" outPoint44="613738" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 3" color="#ebe042">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound89.wav" outPoint44="778153" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 4" color="#b5f5b0">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound90.wav" outPoint44="516068" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 5" color="#a4efed">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound91.wav" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 6" color="#5ad2ed">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound92.wav" outPoint44="404072" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 7" color="#936bea">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound93.wav" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 8" color="#5586f0">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound94.wav" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 9" color="#52ed7f">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="199" keyMode="9728" soundName="sound95.wav" soundEffect="custom">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint mark44="0" level0="0" level1="0"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 10" color="#cdb6b4">
+                         <frames>
+                              <DOMFrame index="0" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" duration="191" keyMode="9728" soundName="sound96.wav">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2236" itemID="69a20280-0000028d" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 2236" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 2640 -12620[ 2460 -12080 1860 -12040[ 1360 -10620 720 -9280[ 400 -8620 -240 -9000[ -600 -9200 -520 -9600[ -320 -10600 140 -11540| 720 -13060[ 980 -13900 1760 -14120[ 3080 -13900 2640 -12620"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 2560 -1340| -2840 -1980[ -2680 -1780 -2760 -1440[ -2860 -1020 -3160 -720[ -4000 140 -5020 680[ -5140 760 -5280 680[ -6040 340 -5620 -380| -5100 -980| -4880 -1140| -7500 -1440| -7840 -1460| -11880 -1720| -12140 -1760[ -12540 -1740 -12740 -2300[ -12860 -2620 -12640 -2920[ -12300 -3380 -11760 -3620[ -9900 -4460 -7860 -4740| -4200 -5160[ -3680 -5180 -3460 -4940| -3160 -4980[ -1640 -5100 -100 -5020| 4020 -5260| 4620 -5380[ 5540 -5140 5160 -4300[ 5000 -3940 4620 -3900| 2680 -3740| -180 -3600| -2540 -3560| -2560 -3460| -2580 -3420| 300 -3040| 3320 -2580| 3500 -2460| 4740 -700[ 5180 20 4600 520[ 4340 740 4020 620[ 3480 380 3280 -200| 3080 -660| 2560 -1340"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -4760 -2620[ -4840 -3220 -4420 -3640| -4500 -3680| -6040 -3500| -7500 -3380[ -8420 -3260 -9280 -2980| -7680 -2860| -7320 -2840| -4740 -2560| -4760 -2620"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

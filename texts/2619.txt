@@ -1,0 +1,25 @@
+Menuscreens:
+--- RECORDSEPARATOR ---
+Training:
+--- RECORDSEPARATOR ---
+Replicants:
+--- RECORDSEPARATOR ---
+Cirrian Guard:
+--- RECORDSEPARATOR ---
+Dozermen:
+--- RECORDSEPARATOR ---
+Plague:
+--- RECORDSEPARATOR ---
+Tech Team:
+--- RECORDSEPARATOR ---
+Toxic 10:
+--- RECORDSEPARATOR ---
+Frozen:
+--- RECORDSEPARATOR ---
+Pyromaniacs:
+--- RECORDSEPARATOR ---
+Blind:
+--- RECORDSEPARATOR ---
+Championship:
+--- RECORDSEPARATOR ---
+Victory: 

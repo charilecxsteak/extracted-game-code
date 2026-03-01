@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1883" itemID="69a20280-00000201" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 1883" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 323 -378[ 212 -238 39 -190| -93 -160[ -119 -155 -142 -160| -150 -148| -177 -117| 143 -106[ 163 -105 169 -85| 182 -21[ 184 9 172 34[ 160 59 133 48[ 93 32 102 -17| 104 -38[ -92 -44 -287 -37[ -292 -37 -296 -42[ -318 -73 -294 -102| -218 -182| -293 -207[ -315 -204 -341 -215[ -368 -226 -369 -242| -456 -276[ -459 -177 -445 -83[ -435 -15 -456 48[ -462 65 -481 67[ -557 74 -616 38| -621 29[ -624 -8 -586 -11| -519 -13[ -530 -107 -532 -205[ -532 -265 -520 -323| -512 -338[ -494 -361 -469 -365| -334 -308[ -318 -320 -284 -317| -270 -318| -162 -312| -146 -307[ -50 -319 32 -283| 38 -274| 39 -270[ 139 -307 221 -381[ 234 -393 250 -402[ 266 -435 299 -441[ 363 -427 323 -378"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 498 -201[ 558 -172 521 -107| 404 92| 387 104[ 345 112 314 88[ 283 63 315 39[ 335 23 362 25| 370 2| 379 -10[ 426 -104 481 -193| 489 -199| 498 -201"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

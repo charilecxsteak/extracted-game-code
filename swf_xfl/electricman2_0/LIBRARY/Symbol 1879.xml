@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1879" itemID="69a20280-000001fd" lastModified="1772157771" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 1879" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#666666"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 325 -263| 274 -208[ 280 -195 267 -182[ 250 -163 228 -156| 212 -139| 165 -86[ 145 -64 123 -56| 151 -39| 165 -26[ 211 28 168 81[ 159 92 145 86[ 111 69 102 29| 96 6[ -49 -32 -191 -78| -165 -57[ -155 -47 -160 -32[ -179 19 -229 46[ -271 68 -317 73[ -344 76 -348 51[ -356 6 -306 -6[ -284 -11 -267 -25| -341 -39| -607 -71[ -675 -80 -655 -138[ -647 -159 -629 -173[ -584 -206 -531 -224[ -450 -253 -370 -265| -15 -247[ 87 -234 191 -242| 200 -242| 245 -293[ 272 -322 305 -330[ 373 -313 325 -263"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 57 -86[ 69 -128 116 -147| 129 -162| 30 -173| -158 -190| -173 -191| -189 -168| -192 -164[ -150 -133 -89 -121| 4 -101| 57 -86"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 476 -171[ 573 -159 659 -114| 661 -113[ 705 -92 749 -74[ 758 -83 769 -83[ 802 -71 804 -53| 848 -38[ 873 -30 865 -6[ 849 40 797 26[ 726 6 662 -29[ 608 -59 550 -79| 539 -85[ 463 -78 444 -138[ 439 -153 452 -162| 476 -171"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -538 -139[ -546 -134 -531 -134| -283 -109| -284 -110[ -297 -115 -300 -129[ -308 -168 -271 -195| -399 -183| -438 -174[ -490 -161 -538 -139"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -20 -303[ -14 -255 -64 -262| -242 -280| -340 -285[ -379 -287 -379 -324[ -378 -357 -346 -359[ -183 -365 -31 -316[ -22 -314 -20 -303"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

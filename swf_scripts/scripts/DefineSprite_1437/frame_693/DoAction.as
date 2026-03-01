@@ -1,0 +1,2 @@
+idle = "no";
+hhit = "no";
